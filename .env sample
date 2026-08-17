@@ -1,2 +1,4 @@
 PORT = 8000
 MONGODB_URI=mongodb+srv://deepakgupta18112005_db_user:2Z21HWGk7bf2pyrC@cluster0.dyxcnyy.mongodb.net
+
+CORS_ORIGIN=*
